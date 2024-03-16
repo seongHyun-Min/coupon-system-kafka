@@ -91,4 +91,6 @@ feature-kafka
 - 카프카는 분산형 스트리밍 플랫폼으로, 다양한 모듈 간의 통신에 유연하게 활용될 수 있음	
 - 카프카의 기본구조는 프로듀서, 토픽, 컨슈머 
 
+<img width="992" alt="image" src="https://github.com/seongHyun-Min/coupon-system-kafka/assets/112048126/9b28ae86-df01-49cd-ac35-a971541f9616">
+
 
